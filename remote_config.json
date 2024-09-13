@@ -1,0 +1,259 @@
+{
+  "parameters": {
+    "show_ads": {
+      "defaultValue": {
+        "value": "true"
+      }
+    },
+    "writer1": {
+      "defaultValue": {
+        "value": "Default Writer 1"
+      }
+    },
+    "writer2": {
+      "defaultValue": {
+        "value": "Default Writer 2"
+      }
+    },
+    "writer3": {
+      "defaultValue": {
+        "value": "Default Writer 3"
+      }
+    },
+    "writer4": {
+      "defaultValue": {
+        "value": "Default Writer 4"
+      }
+    },
+    "writer5": {
+      "defaultValue": {
+        "value": "Default Writer 5"
+      }
+    },
+    "writer6": {
+      "defaultValue": {
+        "value": "Default Writer 6"
+      }
+    },
+    "writer7": {
+      "defaultValue": {
+        "value": "Default Writer 7"
+      }
+    },
+    "writer8": {
+      "defaultValue": {
+        "value": "Default Writer 8"
+      }
+    },
+    "writer9": {
+      "defaultValue": {
+        "value": "Default Writer 9"
+      }
+    },
+    "writer10": {
+      "defaultValue": {
+        "value": "Default Writer 10"
+      }
+    },
+    "writer11": {
+      "defaultValue": {
+        "value": "Default Writer 11"
+      }
+    },
+    "writer12": {
+      "defaultValue": {
+        "value": "Default Writer 12"
+      }
+    },
+    "writer13": {
+      "defaultValue": {
+        "value": "Default Writer 13"
+      }
+    },
+    "writer14": {
+      "defaultValue": {
+        "value": "Default Writer 14"
+      }
+    },
+    "writer15": {
+      "defaultValue": {
+        "value": "Default Writer 15"
+      }
+    },
+    "story1": {
+      "defaultValue": {
+        "value": "Default Story 1"
+      }
+    },
+    "story2": {
+      "defaultValue": {
+        "value": "Default Story 2"
+      }
+    },
+    "story3": {
+      "defaultValue": {
+        "value": "Default Story 3"
+      }
+    },
+    "story4": {
+      "defaultValue": {
+        "value": "Default Story 4"
+      }
+    },
+    "story5": {
+      "defaultValue": {
+        "value": "Default Story 5"
+      }
+    },
+    "story6": {
+      "defaultValue": {
+        "value": "Default Story 6"
+      }
+    },
+    "story7": {
+      "defaultValue": {
+        "value": "Default Story 7"
+      }
+    },
+    "story8": {
+      "defaultValue": {
+        "value": "Default Story 8"
+      }
+    },
+    "story9": {
+      "defaultValue": {
+        "value": "Default Story 9"
+      }
+    },
+    "story10": {
+      "defaultValue": {
+        "value": "Default Story 10"
+      }
+    },
+    "story11": {
+      "defaultValue": {
+        "value": "Default Story 11"
+      }
+    },
+    "story12": {
+      "defaultValue": {
+        "value": "Default Story 12"
+      }
+    },
+    "story13": {
+      "defaultValue": {
+        "value": "Default Story 13"
+      }
+    },
+    "story14": {
+      "defaultValue": {
+        "value": "Default Story 14"
+      }
+    },
+    "story15": {
+      "defaultValue": {
+        "value": "Default Story 15"
+      }
+    },
+    "story16": {
+      "defaultValue": {
+        "value": "Default Story 16"
+      }
+    },
+    "story17": {
+      "defaultValue": {
+        "value": "Default Story 17"
+      }
+    },
+    "story18": {
+      "defaultValue": {
+        "value": "Default Story 18"
+      }
+    },
+    "story19": {
+      "defaultValue": {
+        "value": "Default Story 19"
+      }
+    },
+    "story20": {
+      "defaultValue": {
+        "value": "Default Story 20"
+      }
+    },
+    "story21": {
+      "defaultValue": {
+        "value": "Default Story 21"
+      }
+    },
+    "story22": {
+      "defaultValue": {
+        "value": "Default Story 22"
+      }
+    },
+    "story23": {
+      "defaultValue": {
+        "value": "Default Story 23"
+      }
+    },
+    "story24": {
+      "defaultValue": {
+        "value": "Default Story 24"
+      }
+    },
+    "story25": {
+      "defaultValue": {
+        "value": "Default Story 25"
+      }
+    },
+    "story26": {
+      "defaultValue": {
+        "value": "Default Story 26"
+      }
+    },
+    "story27": {
+      "defaultValue": {
+        "value": "Default Story 27"
+      }
+    },
+    "story28": {
+      "defaultValue": {
+        "value": "Default Story 28"
+      }
+    },
+    "story29": {
+      "defaultValue": {
+        "value": "Default Story 29"
+      }
+    },
+    "story30": {
+      "defaultValue": {
+        "value": "Default Story 30"
+      }
+    },
+    "story31": {
+      "defaultValue": {
+        "value": "Default Story 31"
+      }
+    },
+    "story32": {
+      "defaultValue": {
+        "value": "Default Story 32"
+      }
+    },
+    "story33": {
+      "defaultValue": {
+        "value": "Default Story 33"
+      }
+    },
+    "story34": {
+      "defaultValue": {
+        "value": "Default Story 34"
+      }
+    },
+    "story35": {
+      "defaultValue": {
+        "value": "Default Story 35"
+      }
+    }
+  }
+}

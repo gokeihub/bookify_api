@@ -1,0 +1,37 @@
+[
+    {
+        "image": "https://i.postimg.cc/vB37vkP1/gora.jpg",
+        "audio_url": "https://www.youtube.com/watch?v=mLW35YMzELE",
+        "bookName": "Gora",
+        "bookCreator": "Rabindranath Tagore",
+        "voice_owner": "MagnatesMedia"
+    },
+    {
+        "image": "https://i.postimg.cc/d00GV4Qw/kabuli-ola.jpg",
+        "audio_url": "https://www.youtube.com/watch?v=mLW35YMzELE",
+        "bookName": "Kabuliwala",
+        "bookCreator": "Rabindranath Tagore",
+        "voice_owner": "MagnatesMedia"
+    },
+    {
+        "image": "https://i.postimg.cc/gjGzGBdK/ghore-baire.jpg",
+        "audio_url": "https://www.youtube.com/watch?v=FyADa6HiXXk&t",
+        "bookName": "Ghare Baire",
+        "bookCreator": "Rabindranath Tagore",
+        "voice_owner": "MagnatesMedia"
+    },
+    {
+        "image": "https://i.postimg.cc/HLj3hpyw/chokher-bali.jpg",
+        "audio_url": "https://www.youtube.com/watch?v=FyADa6HiXXk&t",
+        "bookName": "Chokher Bali",
+        "bookCreator": "Rabindranath Tagore",
+        "voice_owner": "MagnatesMedia"
+    },
+    {
+        "image": "https://i.postimg.cc/3xjHxFSS/chokher-bali2.jpg",
+        "audio_url": "https://www.youtube.com/watch?v=FyADa6HiXXk&t",
+        "bookName": "Chokher Bali",
+        "bookCreator": "Rabindranath Tagore",
+        "voice_owner": "MagnatesMedia"
+    }
+]

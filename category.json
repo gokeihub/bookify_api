@@ -1,0 +1,40 @@
+{
+    "Category": [
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "color": "#fed8e5",
+            "bookType": "রবীন্দ্রনাথ ঠাকুর",
+            "saveKey": "save1"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "color": "#e1d8f3",
+            "bookType": "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "saveKey": "save2"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "color": "#fff3cb",
+            "bookType": "রবীন্দ্রনাথ ঠাকুর 2",
+            "saveKey": "save3"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "color": "#b2dafd",
+            "bookType": "রবীন্দ্রনাথ ঠাকুর 3",
+            "saveKey": "save4"
+        }
+    ]
+}

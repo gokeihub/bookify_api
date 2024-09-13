@@ -1,0 +1,41 @@
+{
+    "WriterInfo": [
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
+            "writerName": "robi",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "saveKey": "ali1",
+            "bookCreatorName": "bookCreatorName"
+        },
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "saveKey": "ali2",
+            "bookCreatorName": "bookCreatorName"
+        },
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "saveKey": "ali3",
+            "bookCreatorName": "bookCreatorName"
+        },
+        
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "saveKey": "ali3",
+            "bookCreatorName": "bookCreatorName"
+        }
+    ]
+}

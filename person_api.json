@@ -1,0 +1,22 @@
+{
+    "personInfo": [
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
+            "personName": "রবীন্দ্রনাথ ঠাকুর",
+            "personBirth": "৭ মে ১৮৬১",
+            "personDeath": "৭ আগস্ট ১৯৪১ ",
+            "personBio": "রবীন্দ্রনাথ ঠাকুর কলকাতার এক ধনাঢ্য ও সংস্কৃতিবান ব্রাহ্ম পিরালী ব্রাহ্মণ পরিবারে জন্মগ্রহণ করেন।[১৬][১৭][১৮][১৯] রবীন্দ্রনাথ ঠাকুরের পিতৃপুরুষের আবাসভূমি বাংলাদেশের খুলনা জেলার রূপসা উপজেলার অন্তর্গত ঘাটভোগ ইউনিয়নের পিঠাভোগ গ্রামে।[২০][২১][২২] বাল্যকালে প্রথাগত বিদ্যালয়-শিক্ষা তিনি গ্রহণ করেননি; গৃহশিক্ষক রেখে বাড়িতেই তার শিক্ষার ব্যবস্থা করা হয়েছিল।[২৩] আট বছর বয়সে তিনি কবিতা লেখা শুরু করেন।ক[›][২৪] ১৮৭৪ সালে তত্ত্ববোধিনী পত্রিকা-এ তার কবিতাটি প্রকাশিত হয়।",
+            "personBook": "রবীন্দ্রনাথ ঠাকুর কলকাতার এক ধনাঢ্য ও সংস্কৃতিবান ব্রাহ্ম পিরালী ব্রাহ্মণ পরিবারে জন্মগ্রহণ করেন।[১৬][১৭][১৮][১৯] রবীন্দ্রনাথ ঠাকুরের পিতৃপুরুষের আবাসভূমি বাংলাদেশের খুলনা জেলার রূপসা উপজেলার অন্তর্গত ঘাটভোগ ইউনিয়নের পিঠাভোগ গ্রামে।[২০][২১][২২] বাল্যকালে প্রথাগত বিদ্যালয়-শিক্ষা তিনি গ্রহণ করেননি",
+            "personWiki": "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0"
+        },
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
+            "personName": "রবীন্দ্রনাথ ঠাকুর",
+            "personBirth": "Hi",
+            "personDeath": "",
+            "personBio": "Hello",
+            "personBook": "Me",
+            "personWiki": "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0"
+        }
+    ]
+}

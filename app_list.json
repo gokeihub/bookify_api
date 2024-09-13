@@ -1,0 +1,317 @@
+[
+    {
+        "allname": "Google",
+        "allimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
+        "allurl": "https://google.com/"
+    },
+    {
+        "allname": "Youtube",
+        "allimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
+        "allurl": "https://www.youtube.com/"
+    },
+    {
+        "allname": "Facebook",
+        "allimage": "https://i.postimg.cc/QxZdDZ6G/facebook.png",
+        "allurl": "https://www.facebook.com/"
+    },
+    {
+        "allname": "Instagram",
+        "allimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
+        "allurl": "https://www.instagram.com/?hl=en"
+    },
+    {
+        "allname": "Twitter",
+        "allimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
+        "allurl": "https://twitter.com/"
+    },
+    {
+        "allname": "Discord",
+        "allimage": "https://i.postimg.cc/t4GGvcqR/discord-min.png",
+        "allurl": "https://www.discord.com/"
+    },
+    {
+        "allname": "Reddit",
+        "allimage": "https://i.postimg.cc/BZcMxw8f/reddit-min.png",
+        "allurl": "https://www.reddit.com/"
+    },
+    {
+        "allname": "Telegram",
+        "allimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
+        "allurl": "https://web.telegram.org/"
+    },
+    {
+        "allname": "Spotify",
+        "allimage": "https://i.postimg.cc/Dm3hkpTT/sptify-min.png",
+        "allurl": "https://open.spotify.com/"
+    },
+    {
+        "allname": "Netflix",
+        "allimage": "https://i.postimg.cc/HLq7KHhv/netfilx-min.png",
+        "allurl": "https://www.netflix.com/"
+    },
+    {
+        "allname": "TikTok",
+        "allimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
+        "allurl": "https://www.tiktok.com/"
+    },
+    {
+        "allname": "Amazon",
+        "allimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
+        "allurl": "https://www.amazon.com/"
+    },
+    {
+        "allname": "Gmail",
+        "allimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
+        "allurl": "https://mail.google.com/mail/"
+    },
+    {
+        "allname": "Google Maps",
+        "allimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
+        "allurl": "https://www.google.com/maps"
+    },
+    {
+        "allname": "Uber",
+        "allimage": "https://i.postimg.cc/CK7bR9Pc/ubar-min.jpg",
+        "allurl": "https://www.uber.com/"
+    },
+    {
+        "allname": "Google Drive",
+        "allimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
+        "allurl": "https://drive.google.com/drive/"
+    },
+    {
+        "allname": "Skype",
+        "allimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
+        "allurl": "https://www.skype.com/"
+    },
+    {
+        "allname": "Google Calendar",
+        "allimage": "https://i.postimg.cc/PJKvVDZT/calender.png",
+        "allurl": "https://calendar.google.com/calendar/"
+    },
+    {
+        "allname": "Google Docs",
+        "allimage": "https://i.postimg.cc/YCxghJjh/googledocs.png",
+        "allurl": "https://docs.google.com/document/"
+    },
+    {
+        "allname": "Google Sheets",
+        "allimage": "https://i.postimg.cc/vZnqk8PC/googlesheet.png",
+        "allurl": "https://www.google.com/sheets/about/"
+    },
+    {
+        "allname": "Google Slides",
+        "allimage": "https://i.postimg.cc/xd2wPpGr/googleslider.png",
+        "allurl": "https://www.google.com/slides/about/"
+    },
+    {
+        "allname": "Twitch",
+        "allimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+        "allurl": "https://www.twitch.com/"
+    },
+    {
+        "allname": "Google Forms",
+        "allimage": "https://i.postimg.cc/Vk7vy1dB/googlefrom.png",
+        "allurl": "https://www.google.com/forms/about/"
+    },
+    {
+        "allname": "Google Meet",
+        "allimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
+        "allurl": "https://meet.google.com/"
+    },
+    {
+        "allname": "Google Hangouts",
+        "allimage": "https://i.postimg.cc/BvLqdFW4/Google-Hangouts.png",
+        "allurl": "https://mail.google.com/chat/u/0/"
+    },
+    {
+        "allname": "Google Keep",
+        "allimage": "https://i.postimg.cc/gkgmjsmG/googlekeep.png",
+        "allurl": "https://keep.google.com/"
+    },
+    {
+        "allname": "Google Photos",
+        "allimage": "https://i.postimg.cc/C5vXhvDt/googlephoto.png",
+        "allurl": "https://photos.google.com/"
+    },
+    {
+        "allname": "Google Translate",
+        "allimage": "https://i.postimg.cc/TPVCCkkb/transletor.png",
+        "allurl": "https://translate.google.com/"
+    },
+    {
+        "allname": "Google News",
+        "allimage": "https://i.postimg.cc/mgcfDGmS/googlenews.png",
+        "allurl": "https://news.google.com/"
+    },
+    {
+        "allname": "Google Contacts",
+        "allimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
+        "allurl": "https://contacts.google.com/"
+    },
+    {
+        "allname": "Google Tasks",
+        "allimage": "https://i.postimg.cc/5yGgKD8x/googletask.png",
+        "allurl": "https://tasks.google.com/"
+    },
+    {
+        "allname": "Google Earth",
+        "allimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
+        "allurl": "https://earth.google.com/static/multi-threaded/versions/10.49.0.0/index.html?"
+    },
+    {
+        "allname": "Google Classroom",
+        "allimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
+        "allurl": "https://classroom.google.com/"
+    },
+    {
+        "allname": "Google Ads",
+        "allimage": "https://i.postimg.cc/90Swjhxn/googleads.png",
+        "allurl": "https://ads.google.com/"
+    },
+    {
+        "allname": "Google Play Music",
+        "allimage": "https://i.postimg.cc/Rh5K3f5T/youtubeplay.png",
+        "allurl": "https://music.youtube.com/"
+    },
+    {
+        "allname": "Google Pay",
+        "allimage": "https://i.postimg.cc/N0DzksfT/gpay.png",
+        "allurl": "https://pay.google.com/"
+    },
+    {
+        "allname": "Google Scholar",
+        "allimage": "https://i.postimg.cc/Z5v2mxq7/google-Scholar.png",
+        "allurl": "https://scholar.google.com/"
+    },
+    {
+        "allname": "Google Duo",
+        "allimage": "https://i.postimg.cc/PrH1TmMX/zoom.png",
+        "allurl": "https://meet.google.com/"
+    },
+    {
+        "allname": "Google Colab",
+        "allimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
+        "allurl": "https://colab.research.google.com/"
+    },
+    {
+        "allname": "Trello",
+        "allimage": "https://i.postimg.cc/jqgvgnhM/Trello.png",
+        "allurl": "https://trello.com/"
+    },
+    {
+        "allname": "Notion",
+        "allimage": "https://i.postimg.cc/7ZcCGwwP/notion.png",
+        "allurl": "https://www.notion.so/"
+    },
+    {
+        "allname": "Slack",
+        "allimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
+        "allurl": "https://slack.com/"
+    },
+    {
+        "allname": "Google Chat",
+        "allimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
+        "allurl": "https://mail.google.com/"
+    },
+    {
+        "allname": "Disney+",
+        "allimage": "https://i.postimg.cc/26KPQc9D/disneyp.png",
+        "allurl": "https://www.preview.disneyplus.com/"
+    },
+    {
+        "allname": "Snapchat",
+        "allimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+        "allurl": "https://web.snapchat.com/"
+    },
+    {
+        "allname": "Amazon Prime Video",
+        "allimage": "https://i.postimg.cc/0y6jqFmT/primevideo.png",
+        "allurl": "https://www.amazon.com/gp/video/storefront"
+    },
+    {
+        "allname": "Pinterest",
+        "allimage": "https://i.postimg.cc/4yN42SsF/printrest.png",
+        "allurl": "https://www.pinterest.com/"
+    },
+    {
+        "allname": "Booking.com",
+        "allimage": "https://i.postimg.cc/L5SjbRbB/bookingcom.png",
+        "allurl": "https://www.booking.com/"
+    },
+    {
+        "allname": "Expedia",
+        "allimage": "https://i.postimg.cc/m2X8tznv/expedia.png",
+        "allurl": "https://www.expedia.com/"
+    },
+    {
+        "allname": "Khan Academy",
+        "allimage": "https://i.postimg.cc/mrbYjTKY/khanacademy.jpg",
+        "allurl": "https://www.khanacademy.org/"
+    },
+    {
+        "allname": "Codecademy",
+        "allimage": "https://i.postimg.cc/KvHRKxDq/codecademy.png",
+        "allurl": "https://www.codecademy.com/"
+    },
+    {
+        "allname": "Duolingo",
+        "allimage": "https://i.postimg.cc/mZcr00s7/duolingo.jpg",
+        "allurl": "https://www.duolingo.com/"
+    },
+    {
+        "allname": "Udacity",
+        "allimage": "https://i.postimg.cc/t4H6298r/udacity.png",
+        "allurl": "https://www.udacity.com/"
+    },
+    {
+        "allname": "Skillshare",
+        "allimage": "https://i.postimg.cc/wxG3b9RX/skillshare.png",
+        "allurl": "https://www.skillshare.com/"
+    },
+    {
+        "allname": "MasterClass",
+        "allimage": "https://i.postimg.cc/s2XcyVKV/masterclass.png",
+        "allurl": "https://masterclass.com/"
+    },
+    {
+        "allname": "eBay",
+        "allimage": "https://i.postimg.cc/TPSzmN4X/ebay.png",
+        "allurl": "https://www.ebay.com/"
+    },
+    {
+        "allname": "Walmart",
+        "allimage": "https://i.postimg.cc/g0tK0n2M/wallmart.png",
+        "allurl": "https://www.walmart.com/"
+    },
+    {
+        "allname": "AliExpress",
+        "allimage": "https://i.postimg.cc/43Xwm65Q/aliexpress.png",
+        "allurl": "https://www.aliexpress.com/"
+    },
+    {
+        "allname": "YouTube TV",
+        "allimage": "https://i.postimg.cc/rpHSk3f3/youtube.png",
+        "allurl": "https://tv.youtube.com/welcome/"
+    },
+    {
+        "allname": "Signal",
+        "allimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
+        "allurl": "https://www.signal.org/"
+    },
+    {
+        "allname": "LinkedIn",
+        "allimage": "https://i.postimg.cc/xTMpFTph/linkdin-min.png",
+        "allurl": "https://www.linkedin.com/"
+    },
+    {
+        "allname": "WeChat",
+        "allimage": "https://i.postimg.cc/h4d0S4Wr/wechat-min.jpg",
+        "allurl": "https://web.wechat.com/"
+    },
+    {
+        "allname": "WhatsApp",
+        "allimage": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
+        "allurl": "https://web.whatsapp.com/"
+    }
+]
