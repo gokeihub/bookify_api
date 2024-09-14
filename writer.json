@@ -5,7 +5,7 @@
             "writerName": "robi",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "api": "https://apon06.github.io/bookify_api/writer/rabindranath_thakur.json",
             "saveKey": "ali1",
             "bookCreatorName": "bookCreatorName"
         },
@@ -14,26 +14,43 @@
             "writerName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "api": "https://apon06.github.io/bookify_api/writer/sarat_chandra_chattopadhyay.json",
             "saveKey": "ali2",
             "bookCreatorName": "bookCreatorName"
         },
         {
-            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kazi_nazrul_islam_with_Setar.jpg/220px-Kazi_nazrul_islam_with_Setar.jpg",
             "writerName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "api": "https://apon06.github.io/bookify_api/writer/kazi_nazrul_islam.json",
             "saveKey": "ali3",
             "bookCreatorName": "bookCreatorName"
         },
-        
         {
-            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg",
             "writerName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
+            "saveKey": "ali4",
+            "bookCreatorName": "bookCreatorName"
+        },
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/en/7/75/BandyopadhyayTarashankar.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
+            "saveKey": "ali4",
+            "bookCreatorName": "bookCreatorName"
+        },
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bibhutibhushan_Bandopadhyay.jpg/200px-Bibhutibhushan_Bandopadhyay.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
             "saveKey": "ali4",
             "bookCreatorName": "bookCreatorName"
         }
