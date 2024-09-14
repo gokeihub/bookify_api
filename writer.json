@@ -6,7 +6,7 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/rabindranath_thakur.json",
-            "saveKey": "ali1",
+            "saveKey": "Rabindranath",
             "bookCreatorName": "bookCreatorName"
         },
         {
@@ -15,7 +15,7 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/sarat_chandra_chattopadhyay.json",
-            "saveKey": "ali2",
+            "saveKey": "sarat",
             "bookCreatorName": "bookCreatorName"
         },
         {
@@ -24,7 +24,7 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/kazi_nazrul_islam.json",
-            "saveKey": "ali3",
+            "saveKey": "nazrul",
             "bookCreatorName": "bookCreatorName"
         },
         {
@@ -33,7 +33,7 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
-            "saveKey": "ali4",
+            "saveKey": "Humayun",
             "bookCreatorName": "bookCreatorName"
         },
         {
@@ -42,7 +42,7 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
-            "saveKey": "ali4",
+            "saveKey": "tara_shankar",
             "bookCreatorName": "bookCreatorName"
         },
         {
@@ -51,7 +51,16 @@
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
-            "saveKey": "ali4",
+            "saveKey": "vibhutibhushan",
+            "bookCreatorName": "bookCreatorName"
+        },
+        {
+            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bibhutibhushan_Bandopadhyay.jpg/200px-Bibhutibhushan_Bandopadhyay.jpg",
+            "writerName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
+            "saveKey": "vibhutibhushan",
             "bookCreatorName": "bookCreatorName"
         }
     ]
