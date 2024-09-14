@@ -1,0 +1,92 @@
+{
+    "bookType": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+    "audiobooks": [
+        {
+            "id": 1,
+            "bookName": "দেবদাস",
+            "bookImage": "https://i.postimg.cc/gJxRxfQ9/devdas.jpg",
+            "bookCreatorName": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "bookNameEn": "Devdas",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "দেবদাস",
+                    "audio_url": "https://www.youtube.com/watch?v=3NloyPTfkGw",
+                    "voice_owner": "DadarSchool"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "bookName": "পরিণীতা",
+            "bookImage": "https://i.postimg.cc/Y01xS5Lr/Parineeta.jpg",
+            "bookCreatorName": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "bookNameEn": "Parineeta",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "পরিণীতা",
+                    "audio_url": "https://www.youtube.com/watch?v=oFbpRPHtHO8",
+                    "voice_owner": "DadarSchool"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "bookName": "চরিত্রহীন",
+            "bookImage": "https://i.postimg.cc/nzfjLC4m/Charitraheen.jpg",
+            "bookCreatorName": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "bookNameEn": "Charitraheen",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "চরিত্রহীন ১",
+                    "audio_url": "https://www.youtube.com/watch?v=mQxssApbkqU",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 2,
+                    "bookName": "চরিত্রহীন ২",
+                    "audio_url": "https://www.youtube.com/watch?v=IADXSBCxgK4",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 3,
+                    "bookName": "চরিত্রহীন ৩",
+                    "audio_url": "https://www.youtube.com/watch?v=9wyLlv4nULM",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 4,
+                    "bookName": "চরিত্রহীন ৪",
+                    "audio_url": "https://www.youtube.com/watch?v=-7ViURzCAL4",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 5,
+                    "bookName": "চরিত্রহীন ৫",
+                    "audio_url": "https://www.youtube.com/watch?v=OdLgJlIHipM",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 6,
+                    "bookName": "চরিত্রহীন ৬",
+                    "audio_url": "https://www.youtube.com/watch?v=-kMG1TdnulY",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 7,
+                    "bookName": "চরিত্রহীন 7",
+                    "audio_url": "https://www.youtube.com/watch?v=05JWId-gEzg",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 8,
+                    "bookName": "চরিত্রহীন 8",
+                    "audio_url": "https://www.youtube.com/watch?v=ZntgCoGMYf4",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                }
+            ]
+        }
+    ]
+}
