@@ -1,24 +1,16 @@
 {
     "HomePageApi": [
         {
-            "api": "https://apon06.github.io/bookify_api/dummy_api.json",
+            "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
             "bookType": "রবীন্দ্রনাথ ঠাকুর"
-            
         },
         {
-            "api": "https://apon06.github.io/bookify_api/dummy_api.json",
+            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
             "bookType": "Robi"
-          
         },
         {
-            "api": "https://apon06.github.io/bookify_api/dummy_api.json",
+            "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
             "bookType": "Soni"
-           
-        },
-        {
-            "api": "https://apon06.github.io/bookify_api/dummy_api.json",
-            "bookType": "Som"
-           
         }
     ]
 }
