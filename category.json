@@ -4,37 +4,55 @@
             "bookCreatorName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "api": "https://apon06.github.io/bookify_api/writer/rabindranath_thakur.json",
             "color": "#fed8e5",
             "bookType": "রবীন্দ্রনাথ ঠাকুর",
-            "saveKey": "save1"
+            "saveKey": "রবীন্দ্রনাথ"
         },
         {
             "bookCreatorName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "api": "https://apon06.github.io/bookify_api/writer/sarat_chandra_chattopadhyay.json",
             "color": "#e1d8f3",
             "bookType": "শরৎচন্দ্র চট্টোপাধ্যায়",
-            "saveKey": "save2"
+            "saveKey": "শরৎচন্দ্র"
         },
         {
             "bookCreatorName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/sarat_chandra_chattopadhyay.json",
+            "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
             "color": "#fff3cb",
-            "bookType": "রবীন্দ্রনাথ ঠাকুর 2",
-            "saveKey": "save3"
+            "bookType": "হুমায়ুন আহমেদ",
+            "saveKey": "হুমায়ুন"
         },
         {
             "bookCreatorName": "bookCreatorName",
             "bookImage": "bookImage",
             "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/rabindranath_thakur.json",
+            "api": "https://apon06.github.io/bookify_api/writer/kazi_nazrul_islam.json",
             "color": "#b2dafd",
-            "bookType": "রবীন্দ্রনাথ ঠাকুর 3",
-            "saveKey": "save4"
+            "bookType": "কাজী নজরুল ইসলাম",
+            "saveKey": "কাজী"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
+            "color": "#b2dafd",
+            "bookType": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "saveKey": "বিভূতিভূষণ"
+        },
+        {
+            "bookCreatorName": "bookCreatorName",
+            "bookImage": "bookImage",
+            "bookName": "bookName",
+            "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
+            "color": "#55f8cd",
+            "bookType": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "saveKey": "তারাশঙ্কর"
         }
     ]
 }
