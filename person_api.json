@@ -1,22 +1,88 @@
 {
     "personInfo": [
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rabindranath_Tagore_unknown_location.jpg/800px-Rabindranath_Tagore_unknown_location.jpg",
             "personName": "রবীন্দ্রনাথ ঠাকুর",
             "personBirth": "৭ মে ১৮৬১",
-            "personDeath": "৭ আগস্ট ১৯৪১ ",
-            "personBio": "রবীন্দ্রনাথ ঠাকুর কলকাতার এক ধনাঢ্য ও সংস্কৃতিবান ব্রাহ্ম পিরালী ব্রাহ্মণ পরিবারে জন্মগ্রহণ করেন।[১৬][১৭][১৮][১৯] রবীন্দ্রনাথ ঠাকুরের পিতৃপুরুষের আবাসভূমি বাংলাদেশের খুলনা জেলার রূপসা উপজেলার অন্তর্গত ঘাটভোগ ইউনিয়নের পিঠাভোগ গ্রামে।[২০][২১][২২] বাল্যকালে প্রথাগত বিদ্যালয়-শিক্ষা তিনি গ্রহণ করেননি; গৃহশিক্ষক রেখে বাড়িতেই তার শিক্ষার ব্যবস্থা করা হয়েছিল।[২৩] আট বছর বয়সে তিনি কবিতা লেখা শুরু করেন।ক[›][২৪] ১৮৭৪ সালে তত্ত্ববোধিনী পত্রিকা-এ তার কবিতাটি প্রকাশিত হয়।",
-            "personBook": "রবীন্দ্রনাথ ঠাকুর কলকাতার এক ধনাঢ্য ও সংস্কৃতিবান ব্রাহ্ম পিরালী ব্রাহ্মণ পরিবারে জন্মগ্রহণ করেন।[১৬][১৭][১৮][১৯] রবীন্দ্রনাথ ঠাকুরের পিতৃপুরুষের আবাসভূমি বাংলাদেশের খুলনা জেলার রূপসা উপজেলার অন্তর্গত ঘাটভোগ ইউনিয়নের পিঠাভোগ গ্রামে।[২০][২১][২২] বাল্যকালে প্রথাগত বিদ্যালয়-শিক্ষা তিনি গ্রহণ করেননি",
-            "personWiki": "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0"
+            "personDeath": "৭ আগস্ট ১৯৪১",
+            "personBio": "রবীন্দ্রনাথ ঠাকুর ছিলেন বিশ্বখ্যাত বাঙালি কবি, দার্শনিক ও সংগীতজ্ঞ। তিনি সাহিত্যে নোবেল পুরস্কার অর্জনকারী প্রথম অ-ইউরোপীয়। তাঁর রচিত ‘গীতাঞ্জলি’ তাকে আন্তর্জাতিক সম্মান এনে দেয়।",
+            "personBook": [
+                "গীতাঞ্জলি",
+                "ঘরে বাইরে",
+                "গোরায়",
+                "রক্তকরবী",
+                "চোখের বালি"
+            ]
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
-            "personName": "রবীন্দ্রনাথ ঠাকুর",
-            "personBirth": "Hi",
-            "personDeath": "",
-            "personBio": "Hello",
-            "personBook": "Me",
-            "personWiki": "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0"
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/4/47/Humayun_Ahmed_%28cropped%29.jpg",
+            "personName": "হুমায়ূন আহমেদ",
+            "personBirth": "১৩ নভেম্বর ১৯৪৮",
+            "personDeath": "১৯ জুলাই ২০১২",
+            "personBio": "হুমায়ূন আহমেদ একজন জনপ্রিয় বাংলাদেশি ঔপন্যাসিক, নাট্যকার এবং চলচ্চিত্র নির্মাতা। তাঁর লেখা বইগুলো অত্যন্ত জনপ্রিয় এবং বাংলা সাহিত্যে বিশেষ স্থান দখল করেছে।",
+            "personBook": [
+                "নন্দিত নরকে",
+                "শঙ্খনীল কারাগার",
+                "হিমু",
+                "মিসির আলি",
+                "দেবী"
+            ]
+        },
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kazi_Nazrul_Islam_1926.jpg",
+            "personName": "কাজী নজরুল ইসলাম",
+            "personBirth": "২৪ মে ১৮৯৯",
+            "personDeath": "২৯ আগস্ট ১৯৭৬",
+            "personBio": "কাজী নজরুল ইসলাম ছিলেন বাঙালি কবি, সঙ্গীতজ্ঞ, ও বিদ্রোহী কবি নামে পরিচিত। তাঁর রচনা সাহসিকতার সাথে শোষণ ও বৈষম্যের বিরুদ্ধে প্রতিবাদ জানায়।",
+            "personBook": [
+                "অগ্নিবীণা",
+                "বিষের বাঁশী",
+                "ভাঙ্গার গান",
+                "সাম্যবাদী",
+                "দোলনচাঁপা"
+            ]
+        },
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Sarat_Chandra_Chattopadhyay.jpg",
+            "personName": "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "personBirth": "১৫ সেপ্টেম্বর ১৮৭৬",
+            "personDeath": "১৬ জানুয়ারি ১৯৩৮",
+            "personBio": "শরৎচন্দ্র চট্টোপাধ্যায় ছিলেন একজন বিখ্যাত বাঙালি ঔপন্যাসিক। তাঁর উপন্যাসগুলো মানবপ্রেম, নীতিবোধ ও সামাজিক সমস্যা নিয়ে রচিত।",
+            "personBook": [
+                "দেবদাস",
+                "শ্রীকান্ত",
+                "চরিত্রহীন",
+                "বিন্দুর ছেলে",
+                "পরিণীতা"
+            ]
+        },
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tarashankar_Bandyopadhyay_Anjali_2.jpg",
+            "personName": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "personBirth": "২৩ জুলাই ১৮৯৮",
+            "personDeath": "১৪ সেপ্টেম্বর ১৯৭১",
+            "personBio": "তারাশঙ্কর বন্দ্যোপাধ্যায় ছিলেন একজন প্রখ্যাত বাঙালি ঔপন্যাসিক এবং ছোটগল্প লেখক। তাঁর রচনায় গ্রামীণ জীবন ও সাধারণ মানুষের সংগ্রাম ফুটে ওঠে।",
+            "personBook": [
+                "গণদেবতা",
+                "হাসুলী বাঁকের উপকথা",
+                "পঞ্চগ্রাম",
+                "কবি",
+                "আরোগ্য নিকেতন"
+            ]
+        },
+        {
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bibhutibhushan_Bandyopadhyay.jpg",
+            "personName": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "personBirth": "১২ সেপ্টেম্বর ১৮৯৪",
+            "personDeath": "১ নভেম্বর ১৯৫০",
+            "personBio": "বিভূতিভূষণ বন্দ্যোপাধ্যায় ছিলেন একজন বিখ্যাত বাঙালি ঔপন্যাসিক ও গল্পকার। তাঁর রচিত 'পথের পাঁচালী' বিশ্বসাহিত্যে উল্লেখযোগ্য স্থান অধিকার করেছে।",
+            "personBook": [
+                "পথের পাঁচালী",
+                "অপরাজিত",
+                "ইছামতী",
+                "আরণ্যক",
+                "দেবযান"
+            ]
         }
     ]
 }
