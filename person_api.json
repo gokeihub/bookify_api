@@ -1,7 +1,7 @@
 {
     "personInfo": [
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rabindranath_Tagore_unknown_location.jpg/800px-Rabindranath_Tagore_unknown_location.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
             "personName": "রবীন্দ্রনাথ ঠাকুর",
             "personBirth": "৭ মে ১৮৬১",
             "personDeath": "৭ আগস্ট ১৯৪১",
@@ -9,7 +9,7 @@
             "personBook": "গীতাঞ্জলি, ঘরে বাইরে, গোরায়, রক্তকরবী, চোখের বালি"
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/4/47/Humayun_Ahmed_%28cropped%29.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg",
             "personName": "হুমায়ূন আহমেদ",
             "personBirth": "১৩ নভেম্বর ১৯৪৮",
             "personDeath": "১৯ জুলাই ২০১২",
@@ -17,7 +17,7 @@
             "personBook": "নন্দিত নরকে, শঙ্খনীল কারাগার, হিমু, মিসির আলি, দেবী"
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kazi_Nazrul_Islam_1926.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kazi_nazrul_islam_with_Setar.jpg/220px-Kazi_nazrul_islam_with_Setar.jpg",
             "personName": "কাজী নজরুল ইসলাম",
             "personBirth": "২৪ মে ১৮৯৯",
             "personDeath": "২৯ আগস্ট ১৯৭৬",
@@ -25,7 +25,7 @@
             "personBook": "অগ্নিবীণা, বিষের বাঁশী, ভাঙ্গার গান, সাম্যবাদী, দোলনচাঁপা"
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Sarat_Chandra_Chattopadhyay.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
             "personName": "শরৎচন্দ্র চট্টোপাধ্যায়",
             "personBirth": "১৫ সেপ্টেম্বর ১৮৭৬",
             "personDeath": "১৬ জানুয়ারি ১৯৩৮",
@@ -33,7 +33,7 @@
             "personBook": "দেবদাস, শ্রীকান্ত, চরিত্রহীন, বিন্দুর ছেলে, পরিণীতা"
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tarashankar_Bandyopadhyay_Anjali_2.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/en/7/75/BandyopadhyayTarashankar.jpg",
             "personName": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
             "personBirth": "২৩ জুলাই ১৮৯৮",
             "personDeath": "১৪ সেপ্টেম্বর ১৯৭১",
@@ -41,7 +41,7 @@
             "personBook": "গণদেবতা, হাসুলী বাঁকের উপকথা, পঞ্চগ্রাম, কবি, আরোগ্য নিকেতন"
         },
         {
-            "personImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bibhutibhushan_Bandyopadhyay.jpg",
+            "personImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bibhutibhushan_Bandopadhyay.jpg/200px-Bibhutibhushan_Bandopadhyay.jpg",
             "personName": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
             "personBirth": "১২ সেপ্টেম্বর ১৮৯৪",
             "personDeath": "১ নভেম্বর ১৯৫০",
