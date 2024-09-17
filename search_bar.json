@@ -1,0 +1,233 @@
+{
+    "bookType": "SearchBar",
+    "searchBar": [
+      {
+        "id": 1,
+        "bookName": "গোরা",
+        "bookImage": "https://i.postimg.cc/vB37vkP1/gora.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Gora",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "গোরা প্রথম পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=mCCsUBEkad8",
+            "voice_owner": "realpallab"
+          },
+          {
+            "episode_id": 2,
+            "bookName": "গোরা দ্বিতীয় পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=FEEMg4LmXw4",
+            "voice_owner": "realpallab"
+          },
+          {
+            "episode_id": 3,
+            "bookName": "গোরা তৃতীয় পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=dOfdLDP7dwc",
+            "voice_owner": "realpallab"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "bookName": "কাবুলিওয়ালা",
+        "bookImage": "https://i.postimg.cc/d00GV4Qw/kabuli-ola.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Kabuliwala",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "কাবুলিওয়ালা",
+            "audio_url": "https://www.youtube.com/watch?v=6DQhVnsQsIs",
+            "voice_owner": "BengaliClassicsByArnab"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "bookName": "ঘরে বাইরে",
+        "bookImage": "https://i.postimg.cc/gjGzGBdK/ghore-baire.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Ghawre Bairey",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "ঘরে বাইরে",
+            "audio_url": "https://www.youtube.com/watch?v=HMXCLsCR6js",
+            "voice_owner": "probasimeyergalpoaudio"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "bookName": "চোখের বালি",
+        "bookImage": "https://i.postimg.cc/HLj3hpyw/chokher-bali.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Chokher Bali",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "চোখের বালি",
+            "audio_url": "https://www.youtube.com/watch?v=LkNAu7buHBM",
+            "voice_owner": "DadarSchool"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "bookName": "চোখের বালি",
+        "bookImage": "https://i.postimg.cc/3xjHxFSS/chokher-bali2.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Chokher Bali",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "চোখের বালি ১",
+            "audio_url": "https://www.youtube.com/watch?v=SkmMuzlcdjQ&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=2",
+            "voice_owner": "BengaliClassicsByArnab"
+          },
+          {
+            "episode_id": 2,
+            "bookName": "চোখের বালি ২",
+            "audio_url": "https://www.youtube.com/watch?v=n6mzITOoNRU&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=3",
+            "voice_owner": "BengaliClassicsByArnab"
+          },
+          {
+            "episode_id": 3,
+            "bookName": "চোখের বালি ৩",
+            "audio_url": "https://www.youtube.com/watch?v=s_3oY9MK6S4&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=1",
+            "voice_owner": "BengaliClassicsByArnab"
+          },
+          {
+            "episode_id": 4,
+            "bookName": "চোখের বালি ৪",
+            "audio_url": "https://www.youtube.com/watch?v=9XlepwzkTtI&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=4",
+            "voice_owner": "BengaliClassicsByArnab"
+          },
+          {
+            "episode_id": 5,
+            "bookName": "চোখের বালি ৫",
+            "audio_url": "https://www.youtube.com/watch?v=vcEKaeYdfmU&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=5",
+            "voice_owner": "BengaliClassicsByArnab"
+          },
+          {
+            "episode_id": 6,
+            "bookName": "চোখের বালি ৬",
+            "audio_url": "https://www.youtube.com/watch?v=uRkh4iyQdDg&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=6",
+            "voice_owner": "BengaliClassicsByArnab"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "bookName": "যোগাযোগ",
+        "bookImage": "https://i.postimg.cc/zv1cWGZH/Jogajog.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Jogajog",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "যোগাযোগ ১",
+            "audio_url": "https://www.youtube.com/watch?v=8qpCOic4kX0",
+            "voice_owner": "galpoanukalpo8031"
+          },
+          {
+            "episode_id": 2,
+            "bookName": "যোগাযোগ ২",
+            "audio_url": "https://www.youtube.com/watch?v=dafnWH5Q8cY",
+            "voice_owner": "galpoanukalpo8031"
+          },
+          {
+            "episode_id": 3,
+            "bookName": "যোগাযোগ ৩",
+            "audio_url": "https://www.youtube.com/watch?v=7Gu8Pn5Hg-A",
+            "voice_owner": "galpoanukalpo8031"
+          },
+          {
+            "episode_id": 4,
+            "bookName": "যোগাযোগ ৪",
+            "audio_url": "https://www.youtube.com/watch?v=lvPp-UBK4YY",
+            "voice_owner": "galpoanukalpo8031"
+          },
+          {
+            "episode_id": 5,
+            "bookName": "যোগাযোগ ৫",
+            "audio_url": "https://www.youtube.com/watch?v=36XLDbA05-A",
+            "voice_owner": "galpoanukalpo8031"
+          },
+          {
+            "episode_id": 6,
+            "bookName": "যোগাযোগ ৬",
+            "audio_url": "https://www.youtube.com/watch?v=LBOdKu8ys4Y",
+            "voice_owner": "galpoanukalpo8031"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "bookName": "শেষের কবিতা",
+        "bookImage": "https://i.postimg.cc/pyNRmFPN/Shesher-Kobita.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Shesher Kobita",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "শেষের কবিতা ১",
+            "audio_url": "https://www.youtube.com/watch?v=jfEjCdT3_JY",
+            "voice_owner": "sahityasamahar"
+          },
+          {
+            "episode_id": 2,
+            "bookName": "শেষের কবিতা ২",
+            "audio_url": "https://www.youtube.com/watch?v=E78HzeQe5qQ",
+            "voice_owner": "sahityasamahar"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "bookName": "মালঞ্চ",
+        "bookImage": "https://i.postimg.cc/mZqFRpfq/Malancha.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Malancha",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "মালঞ্চ",
+            "audio_url": "https://www.youtube.com/watch?v=I5pMCMredy0",
+            "voice_owner": "kathakkausik"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "bookName": "চতুরঙ্গ",
+        "bookImage": "https://i.postimg.cc/pXcv34wh/chaturanga.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "rabindranath tagore",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "চতুরঙ্গ",
+            "audio_url": "https://www.youtube.com/watch?v=VOJosjBVemY",
+            "voice_owner": "GolpoNeer"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "bookName": "সুভা",
+        "bookImage": "https://i.postimg.cc/CLRMMwHH/subha.jpg",
+        "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
+        "bookNameEn": "Shuva",
+        "episodes": [
+          {
+            "episode_id": 1,
+            "bookName": "সুভা",
+            "audio_url": "https://www.youtube.com/watch?v=4hKy3-MRs_s&t",
+            "voice_owner": "BengaliClassicsByArnab"
+          }
+        ]
+      }
+    ]
+  }
