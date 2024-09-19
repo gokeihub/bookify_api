@@ -3,64 +3,88 @@
     "audiobooks": [
         {
             "id": 1,
-            "bookName": "হিমু",
-            "bookImage": "https://i.postimg.cc/mrMbKJG7/himu.jpg",
+            "bookName": "দেবদাস",
+            "bookImage": "https://i.postimg.cc/gJxRxfQ9/devdas.jpg",
             "bookCreatorName": "হুমায়ুন আহমেদ",
-            "bookNameEn": "Himu",
+            "bookNameEn": "Devdas",
             "episodes": [
                 {
                     "episode_id": 1,
-                    "bookName": "হিমু",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "MyAudioBook"
+                    "bookName": "দেবদাস",
+                    "audio_url": "https://www.youtube.com/watch?v=3NloyPTfkGw",
+                    "voice_owner": "DadarSchool"
                 }
             ]
         },
         {
             "id": 2,
-            "bookName": "নন্দিত নরকে",
-            "bookImage": "https://i.postimg.cc/sDv1wn14/nondiko-noroke.jpg",
+            "bookName": "পরিণীতা",
+            "bookImage": "https://i.postimg.cc/Y01xS5Lr/Parineeta.jpg",
             "bookCreatorName": "হুমায়ুন আহমেদ",
-            "bookNameEn": "nondito noroke",
+            "bookNameEn": "Parineeta",
             "episodes": [
                 {
                     "episode_id": 1,
-                    "bookName": "নন্দিত নরকে",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "golpotoru"
+                    "bookName": "পরিণীতা",
+                    "audio_url": "https://www.youtube.com/watch?v=oFbpRPHtHO8",
+                    "voice_owner": "DadarSchool"
                 }
             ]
         },
         {
             "id": 3,
-            "bookName": "আগুনের পরশমণি",
-            "bookImage": "https://i.postimg.cc/tCQCNXQp/aguner-poroshmoni.jpg",
+            "bookName": "চরিত্রহীন",
+            "bookImage": "https://i.postimg.cc/nzfjLC4m/Charitraheen.jpg",
             "bookCreatorName": "হুমায়ুন আহমেদ",
-            "bookNameEn": "aguner poroshmoni",
+            "bookNameEn": "Charitraheen",
             "episodes": [
                 {
                     "episode_id": 1,
-                    "bookName": "আগুনের পরশমণি ১",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "kollol"
+                    "bookName": "চরিত্রহীন ১",
+                    "audio_url": "https://www.youtube.com/watch?v=mQxssApbkqU",
+                    "voice_owner": "DazzlingDreamsOfficial"
                 },
                 {
                     "episode_id": 2,
-                    "bookName": "আগুনের পরশমণি ২",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "kollol"
+                    "bookName": "চরিত্রহীন ২",
+                    "audio_url": "https://www.youtube.com/watch?v=IADXSBCxgK4",
+                    "voice_owner": "DazzlingDreamsOfficial"
                 },
                 {
                     "episode_id": 3,
-                    "bookName": "আগুনের পরশমণি ৩",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "kollol"
+                    "bookName": "চরিত্রহীন ৩",
+                    "audio_url": "https://www.youtube.com/watch?v=9wyLlv4nULM",
+                    "voice_owner": "DazzlingDreamsOfficial"
                 },
                 {
                     "episode_id": 4,
-                    "bookName": "আগুনের পরশমণি ৪",
-                    "audio_url": "https://postimg.cc/xkfDzs8d/c9a00c5a",
-                    "voice_owner": "kollol"
+                    "bookName": "চরিত্রহীন ৪",
+                    "audio_url": "https://www.youtube.com/watch?v=-7ViURzCAL4",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 5,
+                    "bookName": "চরিত্রহীন ৫",
+                    "audio_url": "https://www.youtube.com/watch?v=OdLgJlIHipM",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 6,
+                    "bookName": "চরিত্রহীন ৬",
+                    "audio_url": "https://www.youtube.com/watch?v=-kMG1TdnulY",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 7,
+                    "bookName": "চরিত্রহীন 7",
+                    "audio_url": "https://www.youtube.com/watch?v=05JWId-gEzg",
+                    "voice_owner": "DazzlingDreamsOfficial"
+                },
+                {
+                    "episode_id": 8,
+                    "bookName": "চরিত্রহীন 8",
+                    "audio_url": "https://www.youtube.com/watch?v=ZntgCoGMYf4",
+                    "voice_owner": "DazzlingDreamsOfficial"
                 }
             ]
         }
