@@ -35,24 +35,6 @@
             "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
             "saveKey": "Humayun",
             "bookCreatorName": "bookCreatorName"
-        },
-        {
-            "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bibhutibhushan_Bandopadhyay.jpg/200px-Bibhutibhushan_Bandopadhyay.jpg",
-            "writerName": "bookCreatorName",
-            "bookImage": "bookImage",
-            "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
-            "saveKey": "vibhutibhushan",
-            "bookCreatorName": "bookCreatorName"
-        },
-        {
-            "writerImage": "https://upload.wikimedia.org/wikipedia/en/7/75/BandyopadhyayTarashankar.jpg",
-            "writerName": "bookCreatorName",
-            "bookImage": "bookImage",
-            "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
-            "saveKey": "tara_shankar",
-            "bookCreatorName": "bookCreatorName"
         }
     ]
 }

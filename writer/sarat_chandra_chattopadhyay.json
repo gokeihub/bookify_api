@@ -93,13 +93,13 @@
             "bookName": "বিন্দুর ছেলে",
             "bookImage": "https://i.postimg.cc/g2HX1xqY/Bindu-son.jpg",
             "bookCreatorName": "শরৎচন্দ্র চট্টোপাধ্যায়",
-            "bookNameEn": "Devdas",
+            "bookNameEn": "bindur chhele",
             "episodes": [
                 {
                     "episode_id": 1,
                     "bookName": "বিন্দুর ছেলে",
-                    "audio_url": "https://youtu.be/dQhY24GMPkg?t=104",
-                    "voice_owner": "TheWonderinBookshelf"
+                    "audio_url": "https://www.youtube.com/watch?v=s44zx75ENpU",
+                    "voice_owner": "BengaliClassicsByArnab"
                 }
             ]
         }

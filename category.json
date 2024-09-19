@@ -35,24 +35,6 @@
             "color": "#b2dafd",
             "bookType": "কাজী নজরুল ইসলাম",
             "saveKey": "কাজী"
-        },
-        {
-            "bookCreatorName": "bookCreatorName",
-            "bookImage": "bookImage",
-            "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/writer/vibhutibhushan_banerjee.json",
-            "color": "#b2dafd",
-            "bookType": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
-            "saveKey": "বিভূতিভূষণ"
-        },
-        {
-            "bookCreatorName": "bookCreatorName",
-            "bookImage": "bookImage",
-            "bookName": "bookName",
-            "api": "https://apon06.github.io/bookify_api/writer/tara_shankar_banerjee.json",
-            "color": "#55f8cd",
-            "bookType": "তারাশঙ্কর বন্দ্যোপাধ্যায়",
-            "saveKey": "তারাশঙ্কর"
         }
     ]
 }
