@@ -87,6 +87,21 @@
                     "voice_owner": "DazzlingDreamsOfficial"
                 }
             ]
+        },
+        {
+            "id": 1,
+            "bookName": "বিন্দুর ছেলে",
+            "bookImage": "https://i.postimg.cc/g2HX1xqY/Bindu-son.jpg",
+            "bookCreatorName": "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "bookNameEn": "Devdas",
+            "episodes": [
+                {
+                    "episode_id": 1,
+                    "bookName": "বিন্দুর ছেলে",
+                    "audio_url": "https://youtu.be/dQhY24GMPkg?t=104",
+                    "voice_owner": "TheWonderinBookshelf"
+                }
+            ]
         }
     ]
 }
