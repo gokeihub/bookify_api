@@ -2,7 +2,7 @@
     "WriterInfo": [
         {
             "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
-            "writerName": "robi",
+            "writerName": "রবীন্দ্রনাথ ঠাকুর", 
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/rabindranath_thakur.json",
@@ -11,7 +11,7 @@
         },
         {
             "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
-            "writerName": "bookCreatorName",
+            "writerName": "শরৎচন্দ্র চট্টোপাধ্যায়",
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/sarat_chandra_chattopadhyay.json",
@@ -20,7 +20,7 @@
         },
         {
             "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kazi_nazrul_islam_with_Setar.jpg/220px-Kazi_nazrul_islam_with_Setar.jpg",
-            "writerName": "bookCreatorName",
+            "writerName": "কাজী নজরুল ইসলাম",
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/kazi_nazrul_islam.json",
@@ -29,7 +29,7 @@
         },
         {
             "writerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg",
-            "writerName": "bookCreatorName",
+            "writerName": "হুমায়ুন আহমেদ",
             "bookImage": "bookImage",
             "bookName": "bookName",
             "api": "https://apon06.github.io/bookify_api/writer/humayun_ahmed.json",
