@@ -1,0 +1,725 @@
+﻿#EXTM3U
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Hang_Meas_Cine1.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",Hang Meas
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Hang_Meas_Now.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",RakSmey Hang Meas
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/BTV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",BTV
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w363621977.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/CTV8_HD.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",CTV8
+http://139.162.58.237:8080/hls/channel1/.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/PNN_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",PNN TV
+http://139.162.58.237:8080/hls/channel3/.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/CNC_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",CNC
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Town_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",Town TV
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8?manifestfilter=video_bitrate:1-4194304&uid=431679
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Fresh_News.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/TVK.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",TVK
+https://livefta.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/TVK2.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",TVK2
+https://livefta.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="http://220.158.232.152:1337/uploads/Apsara_49807737a8.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",Apsara
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="http://220.158.232.152:1337/uploads/TV_5_39a4f13925.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",TV5
+https://live-evg13.tv360.metfone.com.kh/live/tv5.m3u8?manifestfilter=video_bitrate:1-4194304&uid=431679
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/MSJTV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",MSJTV
+http://124.248.165.18:1935/live/myStream/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Bayon_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w1838789097.m3u8?manifestfilter=video_bitrate%3A1-4194304&uid=387804
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/E_Learning_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",E-Learning
+http://217.15.167.95:5080/LiveApp/streams/etv_live.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/KhmerTV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/MOITV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/KomSan_TV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",KomSanTV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/Information_Gov.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",ក្រសួងព័ត៌មាន
+http://217.15.167.95:5080/LiveApp/streams/mo_inf_tv.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Khmer/ABCTV.png" tvg-country="PLC" group-title="🇰🇭 ប៉ុស្តិ៏ខ្មែរ",ABC
+http://217.15.167.95:5080/live/streams/live_3.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="🏺 ឯកសារ_DOCUMENTARI", CANADA TRAVELXP XP TV
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSFvYtWXD12SsQ0UsSCwAuZeSJ8271Oj2f3qt4nhdspWDGpEa_2jjR8XkGHUDHeoGkhc&usqp=CAU" group-title="🏺 ឯកសារ_DOCUMENTARI", WILD EARTH
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-name="ANIMAL PT" tvg-logo="https://logo.iptveditor.com/animal.png" group-title="🏺 ឯកសារ_DOCUMENTARI",ANIMAL PT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:-1 radio="false" tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="🏺 ឯកសារ_DOCUMENTARI",National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:0 radio="false" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",Naturescape
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-id="CHBA1500021M5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20220323T074453SQUARE.png_20220323074456.png" tvg-chno="4266" group-title="🏺 ឯកសារ_DOCUMENTARI",One Terra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/214f1a50-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 radio="false" tvg-id="CHAK3504500A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504500A_20221026T004547SQUARE.png_20221026004547.png" tvg-chno="4263" group-title="🏺 ឯកសារ_DOCUMENTARI",Pluto TV Animals
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 radio="false" tvg-name="Smithsonian Channel Selects" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="🏺 ឯកសារ_DOCUMENTARI",Smithsonian Channel Selects
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-id="CHAJ0500427A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500427A_20221026T004615SQUARE.png_20221026004615.png" tvg-chno="4269" group-title="🏺 ឯកសារ_DOCUMENTARI",Tierwelt
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/17f021d3-7c2a-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:0 radio="false" tvg-name="TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Animals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Cars
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV History" tvg-logo="https://logo.iptveditor.com/historytv.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV History
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Military
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Paranormal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Science
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="TV Travel" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",TV Travel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="Voyager Documentaries" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="🏺 ឯកសារ_DOCUMENTARI",Voyager Documentaries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="WeatherSpy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="🏺 ឯកសារ_DOCUMENTARI",WeatherSpy
+https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 radio="false" tvg-id="CHBA3300028G3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20230111T032733SQUARE.png_20230111032733.png" tvg-chno="4002" group-title="🏺 ឯកសារ_DOCUMENTARI",Wilder Planet
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/News/Sky_News.png" tvg-country="PLC" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012729.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 NBC News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700000022.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇸🇬 Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012735.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012736.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇬🇧 Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700014092.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇩🇪 DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012615.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇮🇳 WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012728.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇦🇺 ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012726.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇷🇺 RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 radio="false" tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",France 24 French
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977678260.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇷🇺 Россия 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/sochi/russia24sd/playlist_sdhigh.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012737.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 Cheddar News
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012738.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012752.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977678261.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 CBC News Network
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012725.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇰🇷 Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012723.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇬🇧 Euronews
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012720.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇮🇳 India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977678231.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇮🇳 NDTV India
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977678232.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇮🇳 Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012727.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇶🇦 Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012724.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇨🇳 CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012719.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇯🇵 NHK G
+http://203.162.235.41:14093
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012718.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇯🇵 NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700001053.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇨🇦 ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012617.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇬🇧 GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012618.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 NEWSY
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012619.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 NewsNet
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012623.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 NBC 26
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012717.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇯🇵 NTV News24
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012721.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012722.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇨🇦 CTV News
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012730.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 Bloomberg TV
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012733.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 Newsmax TV
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012734.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 The First
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012741.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇮🇱 I24 News
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012746.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇫🇷 TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012747.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇫🇷 TVR
+https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012748.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇰🇷 TBS
+http://203.162.235.41:18097/
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700012749.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇰🇷 NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700013726.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇫🇷 La Tele
+https://edge20.vedge.infomaniak.com/livecast/latele2/chunklist_w43658312.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/700014091.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇫🇷 TV7
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/911218387.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇹🇷 TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977678233.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇵🇭 PTV News
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977684810.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 Voice of Ameria
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977684812.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇿🇦 Africa News
+https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/eee0f6f0-ec94-11eb-a41f-d993a20adb10/3936678/977684834.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 🇺🇸 OAN News
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20230307T222314SQUARE.png_20230307222314.png" tvg-chno="1007" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", ABC News Live
+https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" tvg-chno="1036" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", ABC7 Bay Area
+https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 radio="false" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20230208T100259SQUARE.png_20230208100300.png" tvg-chno="1021" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Bloomberg Originals
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 radio="false" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png" tvg-chno="1015" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 radio="false" tvg-name="Bloomberg Global Financial News LIVE" tvg-logo="https://logo.iptveditor.com/blomberg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Bloomberg Global Financial News LIVE
+https://tv.grimo.click/cn/tvs/ch10_blomglobalfinan.m3u8
+#EXTINF:-1 radio="false" tvg-id="CHBA3300018TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300018TD_20221026T004600SQUARE.png_20221026004600.png" tvg-chno="4320" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Bloomberg TV+
+https://9427d97d325f4e8ca1efbe5f318dee75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Sud9mof.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 radio="false" tvg-name="Euronews EN" tvg-logo="https://logo.iptveditor.com/euronewse.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Euronews EN
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
+#EXTINF:-1 radio="false" tvg-id="CHBA100000532" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA100000532_20221026T004558SQUARE.png_20221026004559.png" tvg-chno="4003" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Euronews Live
+https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_EuroNewsLive/playlist.m3u8?ads.wurl_channel=546&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 radio="false" tvg-id="CHAJ0500419A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500419A_20221026T004611SQUARE.png_20221026004612.png" tvg-chno="4330" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5cf0bda5-7c29-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:0 radio="false" tvg-name="NHK WORLD" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",NHK WORLD
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 radio="false" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Bet Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Sud9mof.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/894758579.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", BLOOMBERG TV
+http://hdliveiptv.com:8080/32648651828564/32648651828564/178867
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", CGTN NEWS TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/84743
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", ABC AUSTRALIA
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/916461821.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", ABC NEW YORK
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139605
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", DW NEWS TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", NHK WORLD PREMIUM
+https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.journalistsupport.net/static/images/750x440/eddc5e73100fa7b7d254a4428c1cdd91.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", TELESUR ENGLISH
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Yahoo_Finance_Logo_2013.svg/1280px-Yahoo_Finance_Logo_2013.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Yahoo Finance !! TV SHOW
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/883682995.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", ERT WORLD TV
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/ert_world_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/TV5MONDE.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", TV5MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 radio="false" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",CMT Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=67a4e34f-bc00-53a7-808e-817453df25bc&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=67a4e34f-bc00-53a7-808e-817453df25bc&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=0adc72cd87e45d3491f8e47e54bbcc98&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+#EXTINF:0 radio="false" tvg-name="Euronews EN" tvg-logo="https://logo.iptveditor.com/euronewse.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",Euronews EN
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
+#EXTINF:0 radio="false" tvg-name="MSNBC" tvg-logo="https://1.bp.blogspot.com/-swQBvEqXkFw/YMQ9yhfpCHI/AAAAAAAAAEw/OXe0wykcAoUUc5lks9_SlMWXLgx2aDheACLcBGAsYHQ/s0/MSNBC.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International",MSNBC
+https://tv.grimo.click/cn/tvs/grimv2/ch07_msnbc.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/883694597.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", RUSSIA TODAY NEWS TV
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", TRT TURK TV
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/883560246.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="Google" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/5000782/894935797.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", NBC LX NEWS
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 radio="false" tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 2GB Sydney (1080p)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="6PR.au" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", 6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="AmericasVoice.us" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 radio="false" tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="BlackNewsChannel.us" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="CBSNewsDetroit.us" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", CBS News Detroit (720p)
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", CBS News National (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", CTV (720p)
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 radio="false" tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Euronews English (720p)
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Press TV (720p)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="PrudentMedia.in" tvg-logo="https://i.imgur.com/DG0x4UD.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Prudent Media (1080p)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 radio="false" tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 radio="false" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", OAN
+https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", OAN Plus
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="🌎 ប៉ុស្តិ័អន្តរជាតិ_International", US Weekly TV
+https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/AXN.png" tvg-country="PLC" group-title="🎬ខ្សែភាពយន្ត_Movies",AXN
+http://202.62.56.28:8080/nl.m3u8?id=1007
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/HBO.png" tvg-country="PLC" group-title="🎬ខ្សែភាពយន្ត_Movies",HBO
+http://szgmxsu.megaser.xyz:80/78DD556B/B23AB34B/181617
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/HBO.png" group-title="🎬ខ្សែភាពយន្ត_Movies",HBO HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/HBO.png" group-title="🎬ខ្សែភាពយន្ត_Movies",HBO Hits HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/HBO.png" group-title="🎬ខ្សែភាពយន្ត_Movies",HBO Family HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/ENTERTAINMENT/HBO.png" group-title="🎬ខ្សែភាពយន្ត_Movies",HBO Signature HD
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+#EXTINF:-1 radio="false" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Horror
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=&appStoreUrl=&appVersion=2.0.0&app_name=&deviceDNT=0&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceLat=38.5783&deviceLon=-90.6666&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=37.0.2049.0&serverSideAds=false&sid=6e360db0-724b-11e8-be77-bf4d1417b012&userId=
+#EXTINF:-1 radio="false" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Classic TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=520&deviceId=5f15e3cccf49290007053c67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.comainment",Classic TV 4U
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/986320733.png" group-title="🎬ខ្សែភាពយន្ត_Movies", Movies4Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="🎬ខ្សែភាពយន្ត_Movies", DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="🎬ខ្សែភាពយន្ត_Movies", AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="StoriesbyAMC.us" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="🎬ខ្សែភាពយន្ត_Movies", Pluto TV Stories by AMC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
+#EXTINF:-1 radio="false" tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🎬ខ្សែភាពយន្ត_Movies", Sony Movies (Sony Movie Channel)
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="BETHerEast.us" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="🎬ខ្សែភាពយន្ត_Movies", Pluto TV BET Her
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=175&terminate=false&userId=
+#EXTINF:-1 radio="false" tvg-id="MyCinemaEurope.ch" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="🎬ខ្សែភាពយន្ត_Movies", My Cinema Europe
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="tvNMoviesAsia.hk" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4995771/985169762.png" group-title="🎬ខ្សែភាពយន្ត_Movies", tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="🎬ខ្សែភាពយន្ត_Movies",Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:0 radio="false" tvg-name="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/RAJsPmP.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Afroland TV
+https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Ocro6qo.png" group-title="🎬ខ្សែភាពយន្ត_Movies",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.awetv.com/wp-content/uploads/2014/10/AWELogo3D.png" group-title="🎬ខ្សែភាពយន្ត_Movies",AWE
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/Li9dNj3.png" group-title="🎬ខ្សែភាពយន្ត_Movies",AWE Encore (Opt-2)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encores/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/BprIood.png" group-title="🎬ខ្សែភាពយន្ត_Movies",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:0 radio="false" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Baywatch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="Best of Dr. Phil" tvg-logo="https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Best of Dr. Phil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/492.png" group-title="🎬ខ្សែភាពយន្ត_Movies",BET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
+#EXTINF:-1 radio="false" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14897/s14897_h3_aa.png" group-title="🎬ខ្សែភាពយន្ត_Movies",BET Her
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=175&terminate=false&userId=
+#EXTINF:0 radio="false" tvg-name="BET Her" tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",BET Her
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 radio="false" tvg-name="BET TV" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",BET TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/RJxmP5M.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Binge TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Bounce XL
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Bounce XL (Opt-2)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="🎬ខ្សែភាពយន្ត_Movies",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-name="British Drama" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",British Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/solidLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",British Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 radio="false" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/solidLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",British Drama (Opt-2)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
+#EXTINF:0 radio="false" tvg-name="BUZZR" tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="🎬ខ្សែភាពយន្ត_Movies",BUZZR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 radio="false" tvg-logo="https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY" group-title="🙉 គំនូរជីវចល_Cartoon", RAKUNTEN TV
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Lego_Kids.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Lego Kids
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Kidoodle_TV.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Kidoodle TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Spacetoon.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Kids/Rakunten_tv.png" tvg-country="PLC" group-title="🙉 គំនូរជីវចល_Cartoon",Rakunten tv
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="https://zoomoo-samsungau.amagi.tv/playlist.m3u8" tvg-name="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8?checkedby:iptvcat.com" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/889036014.png" group-title="🙉 គំនូរជីវចល_Cartoon", ZOO MOO
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/887787058.png" group-title="🙉 គំនូរជីវចល_Cartoon", MOONBUG KID
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://d1io3yog0oux5.cloudfront.net/kartoonstudios/files/pages/distribution/kartoon-channel/Kartoon_Channel_Primary_Logo_FINAL_300dpi_TM.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", KartoonChannel
+https://lnc-kartoon.tubi.video/kc_co.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/940109581.webp" group-title="🙉 គំនូរជីវចល_Cartoon", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/940109583.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4934596/986320734.jpg" group-title="🙉 គំនូរជីវចល_Cartoon", pocket.watch Kids TV
+https://pocketwatch-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY" group-title="🙉 គំនូរជីវចល_Cartoon", RAKUNTEN TV
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🙉 គំនូរជីវចល_Cartoon", Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="🙉 គំនូរជីវចល_Cartoon", Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg" group-title="🙉 គំនូរជីវចល_Cartoon", Cartton KHMER
+https://live-evg8.tv360.metfone.com.kh/manifest/DongNai2HD/master.m3u8?manifestfilter=video_bitrate:1-4194304&uid=163603
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Sports/MUTV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",MUTV
+https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="http://220.158.232.152:1337/uploads/TRUE_PREMIER_FOOTBALL_1_bf785cd444.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",TRUE PREMIER FOOTBALL 1
+http://202.62.56.28:8080/nl.m3u8?id=1061
+#EXTINF:0 radio="false" tvg-logo="http://220.158.232.152:1337/uploads/TRUE_PREMIER_FOOTBALL_2_c652c013cf.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",TRUE PREMIER FOOTBALL 2
+http://202.62.56.28:8080/nl.m3u8?id=1065
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/Red_Bull_TV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/FIGHT_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/GOLF_CHANNEL.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",GOLF CHANNEL
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181379
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/NHL_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",NHL NETWORK
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181516
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/MLB_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",MLB NETWORK
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181376
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/MUTV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",MUTV
+https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/NBA_TV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",NBA TV
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/378819
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/USA_NETWORK1.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",USA NETWORK
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/13612
+#EXTINF:0 radio="false" tvg-logo="http://220.158.232.152:1337/uploads/WWE_04e7a0efb2.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",WWE
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181444
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/NBC_SPORTS.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",NBC SPORTS
+http://szgmxsu.megaser.xyz:80/78DD556B/B23AB34B/181444
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/NFL_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",NFL NETWORK
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181382
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/TENNIS_CHANNEL.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",TENNIS CHANNEL
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181415
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/SEC_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",SEC NETWORK
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181431
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/UFC.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",UFC
+http://vuusckk.megaser.xyz:80/23992347/2C8236B3/181532
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN 1
+http://jfzcznr.megaser.xyz:80/A3DCC2DA/BDBCBD26/181387
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN 2
+http://jfzcznr.megaser.xyz:80/A3DCC2DA/BDBCBD26/181514
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN 3
+http://jfzcznr.megaser.xyz:80/A3DCC2DA/BDBCBD26/176749
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN NEWS
+http://jfzcznr.megaser.xyz:80/A3DCC2DA/BDBCBD26/181384
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN U
+http://212.102.60.231/ESPN_U/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Sports/CCTV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",CCTV5+
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/881449127.png" group-title="⚽ កីឡា_Sport", ADU DHABI SPORT 1 TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://1.bp.blogspot.com/-vPA9n8xEOgo/XVy7OjgapdI/AAAAAAAACdo/tdo7dbf5KAUD1Zj4gTqbmGJTulmuiX44ACLcBGAs/s1600/%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D8%25A8%25D9%2588%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9%2B2%2BAbu%2BDhabi%2BSport%2B2%2BLive.png" group-title="⚽ កីឡា_Sport", ADU DHABI SPORT 2 TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/881450393.png" group-title="⚽ កីឡា_Sport", ADU DHABI SPORT 3 TV
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEhDp8lvPM3-HcwBOVZ_oheJUHkBjb4OhL9xfNQn0ESfksBnglKRaxu0fSI_qe5USqQ&usqp=CAU" group-title="⚽ កីឡា_Sport", DUBAI RACING  1 ប្រណាំងសេះ
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOerYsK4vfo8iTKbccSAYpwTgAemmvD8WJ-34YPH8W2tUJmUDEoU1M0tYt8iK4ZJOkA&usqp=CAU" group-title="⚽ កីឡា_Sport", DUBAI RACING 2 ប្រណាំងសេះ
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwscgnqSLqZQ5J9EW-sCruNqO8xwK2V3jWXPH5-sKzmQZ53JwvEZJ7jPirSRS7dSygw&usqp=CAU" group-title="⚽ កីឡា_Sport", DUBAI RACING 3 ប្រណាំងសេះ
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="⚽ កីឡា_Sport", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="⚽ កីឡា_Sport", Dubai Sports 3  [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="⚽ កីឡា_Sport", Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-motor-tv.no.png" group-title="⚽ កីឡា_Sport", CANAL MOTOR TV
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/893509436.png" group-title="⚽ កីឡា_Sport", FAILARMY 🇺🇸
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/899591206.png" group-title="⚽ កីឡា_Sport", J SPORT TV 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/899591207.png" group-title="⚽ កីឡា_Sport", J SPORT TV 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/899591208.png" group-title="⚽ កីឡា_Sport", J SPORT TV 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/899591209.png" group-title="⚽ កីឡា_Sport", J SPORT TV 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901202395.png" group-title="⚽ កីឡា_Sport", TNT SPORTS 1 [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901212396.png" group-title="⚽ កីឡា_Sport", TNT SPORTS 2 [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901212397.png" group-title="⚽ កីឡា_Sport", TNT SPORTS 3 [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901212399.png" group-title="⚽ កីឡា_Sport", TNT SPORTS 4 [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901212400.png" group-title="⚽ កីឡា_Sport", TNT SPORTS 5 [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 radio="false" tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="⚽ កីឡា_Sport", JOJ Šport (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/901395730.png" group-title="⚽ កីឡា_Sport", SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="⚽ កីឡា_Sport", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/894134439.png" group-title="⚽ កីឡា_Sport", REAL MADRID
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/894134440.png" group-title="⚽ កីឡា_Sport", MANCHESTER UNITED
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-id="http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139696" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/894761659.png" group-title="⚽ កីឡា_Sport", TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/986322955.png" group-title="⚽ កីឡា_Sport", HNC Sports
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/986322956.png" group-title="⚽ កីឡា_Sport", Insight TV
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/986323661.png" group-title="⚽ កីឡា_Sport", Origin Sports
+https://raycoms-originsports.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/986323662.jpg" group-title="⚽ កីឡា_Sport", Trace sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://m3u-editor.com/storage/channel-logos/18b0a6d0-0e43-11ee-9fbc-47da18090311/4987087/986323663.png" group-title="⚽ កីឡា_Sport", Trace Sportstars
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽ កីឡា_Sport", Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="⚽ កីឡា_Sport", Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="⚽ កីឡា_Sport", Poker TV
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 radio="false" tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="⚽ កីឡា_Sport", A Spor (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 radio="false" tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="⚽ កីឡា_Sport", BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" group-title="⚽ កីឡា_Sport", Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="PlayersTV.ca" tvg-logo="https://i.imgur.com/OC3O87c.png" group-title="⚽ កីឡា_Sport", Players TV (1080p)
+https://playerstv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="SonySportsTen1.in" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="⚽ កីឡា_Sport", Sony Sports Ten 1 (1080p)
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 radio="false" tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="⚽ កីឡា_Sport", Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="⚽ កីឡា_Sport", SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 radio="false" tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽ កីឡា_Sport", Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Sports/FIGHT_NETWORK.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Sports/Red_Bull_TV.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA168/All_logo/main/Sports/ESPN.png" tvg-country="PLC" group-title="⚽ កីឡា_Sport",ESPN U
+http://212.102.60.231/ESPN_U/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/CH3.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",CH3
+http://202.62.56.28:8080/nl.m3u8?id=1062
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/TV5.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",TV5
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/CH7.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",CH7
+http://202.62.56.28:8080/nl.m3u8?id=1072
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/CH8.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/Workpoint_TV.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",Workpoint TV
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/True_4U.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",True 4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/Thai_PBS.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/PPTV.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/TNN%2016.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",TNN 16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/MCOT.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",MCOT HD
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/MoNo_29.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",MONO 29
+http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/All_logo/main/TV_Thai/ThairathTV.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",ThairathTV
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 1
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w862227920_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 2
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w505762486_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 3
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-03-adaptive.smil/chunklist_w1434633120_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 4
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-04-adaptive.smil/chunklist_w1574119143_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 5
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-05-adaptive.smil/chunklist_w155787631_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 6
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-06-adaptive.smil/chunklist_w110266701_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 7
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-07-adaptive.smil/chunklist_w341648795_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 8
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w1450831534_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 9
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-09-adaptive.smil/chunklist_w1495750807_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 10
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-10-adaptive.smil/chunklist_w1693064451_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 11
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w983693108_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 12
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-12-adaptive.smil/chunklist_w1152689961_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 13
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-13-adaptive.smil/chunklist_w631506691_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 14
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w1447823014_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" tvg-country="PLC" group-title="🇹🇭 ប៉ុស្ត៏ថៃ_Thai",DL TV 15
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w1885765493_b2128000_slth.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-1
+http://202.62.56.28:8080/nl.m3u8?id=1037
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-2
+http://202.62.56.28:8080/nl.m3u8?id=1091
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-3
+https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-4
+http://202.62.56.28:8080/nl.m3u8?id=1038
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-5
+http://202.62.56.28:8080/nl.m3u8?id=1143
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-5+
+http://202.62.56.28:8080/nl.m3u8?id=1064
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-6
+http://202.62.56.28:8080/nl.m3u8?id=1049
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-7
+https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-8
+https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-9
+https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-10
+http://202.62.56.28:8080/nl.m3u8?id=1090
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-11
+http://202.62.56.28:8080/nl.m3u8?id=1123
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-12
+http://202.62.56.28:8080/nl.m3u8?id=1124
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-13
+http://202.62.56.28:8080/nl.m3u8?id=1039
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-14
+http://202.62.56.28:8080/nl.m3u8?id=1088
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-15
+http://202.62.56.28:8080/nl.m3u8?id=1087
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-16
+https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/CCTV%20China.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CCTV-17
+http://202.62.56.28:8080/nl.m3u8?id=1115
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/Phoenix%20TV.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Phoenix TV
+http://202.62.56.28:8080/nl.m3u8?id=1041
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20China%20%26%20Taiwan/Phoenix%20infonews.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Phoenix infonews
+http://202.62.56.28:8080/nl.m3u8?id=1042
+#EXTINF:0 radio="false" tvg-logo="https://onedrive.live.com/embed?resid=EA093E3A43CE7C5C%21604&authkey=%21AI0wYHNjgWGBlB8" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Hebei TV
+http://202.62.56.28:8080/nl.m3u8?id=1028
+#EXTINF:0 radio="false" tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Hunan TV
+http://202.62.56.28:8080/nl.m3u8?id=1030
+#EXTINF:0 radio="false" tvg-logo="https://w7.pngwing.com/pngs/10/901/png-transparent-zhejiang-icon-zhejiang-tv-column-icon-blue-angle-text-thumbnail.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Zhejiang TV
+http://202.62.56.28:8080/nl.m3u8?id=1031
+#EXTINF:0 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Jiangsu TV
+http://202.62.56.28:8080/nl.m3u8?id=1032
+#EXTINF:0 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/1024px-Beijing_Television_Logo_2009.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Beijing TV
+http://202.62.56.28:8080/nl.m3u8?id=1033
+#EXTINF:0 radio="false" tvg-logo="https://link.fobshanghai.com/bbsimage/fair/cbmexpo_cn2020/3087.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Aniword TV
+http://202.62.56.28:8080/nl.m3u8?id=1035
+#EXTINF:0 radio="false" tvg-logo="https://c1.klipartz.com/pngpicture/347/970/sticker-png-tv-liaoning-television-broadcasting-radio-station-television-channel-yellow-ball-logo-thumbnail.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",LIAONING TV
+https://api.olelive.com/dis/live/LIAONINGHD/hls.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://www.tvchinese.net/uploads/tv/dongfang.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Dongfang TV
+http://202.62.56.28:8080/nl.m3u8?id=1034
+#EXTINF:0 radio="false" tvg-logo="https://img.favpng.com/1/8/5/guangdong-radio-and-television-lingnan-china-central-television-television-channel-png-favpng-uQXP8U8S5yAv61VLJ8wiBh8R4.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",GuangDong TV
+http://202.62.56.28:8080/nl.m3u8?id=1036
+#EXTINF:0 radio="false" tvg-logo="https://t3.ftcdn.net/jpg/04/83/50/92/360_F_483509263_MW1xksvUkb8EJ0eHujJ6YBDD5EmhQuCp.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",HSK TV
+http://202.62.56.28:8080/nl.m3u8?id=1040
+#EXTINF:0 radio="false" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",STAR Xing Kong
+http://202.62.56.28:8080/nl.m3u8?id=1043
+#EXTINF:0 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Channel V
+http://202.62.56.28:8080/nl.m3u8?id=1044
+#EXTINF:0 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Lotus TV
+http://202.62.56.28:8080/nl.m3u8?id=1045
+#EXTINF:0 radio="false" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Shenzhen TV
+http://202.62.56.28:8080/nl.m3u8?id=1067
+#EXTINF:0 radio="false" tvg-logo="https://sc.dish.com/shared/images/station-logos/FUJTV.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Fujian TV
+http://202.62.56.28:8080/nl.m3u8?id=1089
+#EXTINF:0 radio="false" tvg-logo="https://onedrive.live.com/embed?resid=EA093E3A43CE7C5C%21601&authkey=%21AHOIHl8OiPrqOyM" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",FTV Entertainment
+http://194.233.83.66:1935/live/4gtv002/playlist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://onedrive.live.com/embed?resid=EA093E3A43CE7C5C%21601&authkey=%21AHOIHl8OiPrqOyM" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",FTV News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Set I News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",Set I News+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CBC
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CTS HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",TVBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197557.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",TaiWan TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323363.png" tvg-country="PLC" group-title="🇨🇳 ចិន-CHINA",CTI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/THVL.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",THVL1
+http://123.21.223.9:8081/sctv/s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/VTC.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",VTC 1
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/QPVN.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",QPVN
+http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1705301349_b596000_sleng.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/NH%C3%82N%20D%C3%82N%20TV.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",NHÂN DÂN TV
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",QUỐC HỘI TV
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",TTXVN
+https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_w1632124918_b964000_sleng.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",VOVTV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",PTQ
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1606630141_b1384000.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",HÀ NỘI 1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w443495695_b1064000_slen.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",HÀ NỘI 2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w404063302_b1064000_slen.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",ATV1
+https://ott3.nethubtv.vn/live/angiangtv/chunklist_1.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",BLTV
+https://ott3.nethubtv.vn/live/baclieutv/chunklist_1.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM", BTV
+https://stream.thingnet.vn/live/smil:BTV.smil/chunklist_w525330412_b1384000.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",BRT
+https://stream.brt.vn:8081/live/tv2.stream_record/chunklist_w1411877807.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM", YTV
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",STV
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",HTTV
+https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",PTP
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",CRTV
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w625526760_b584000.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",DRT
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",PTD
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w90684997_b964000_sleng.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",LTV
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1459527492_b1384000.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",HGTV
+https://ott4.nethubtv.vn/live/hagiangtv/chunklist_2.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",HTTV
+https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",THĐT1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w2005839680.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",THĐT2
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w990537.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",TRT
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",LSTV
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",NTV
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:0 radio="false" tvg-logo="https://raw.githubusercontent.com/PSA169/Logo/main/TV%20Logo/Logo%20TV%20VN/Flag_of_Vietnam.svg.png" tvg-country="PLC" group-title="🇻🇳 ប៉ុស្តិ៍វៀតណាម-VIETNAM",QBTV
+https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
