@@ -122,26 +122,5 @@
         }
       ],
       "__v": 9
-    },
-    {
-      "_id": "67cac1ca5efc5b10267f750a",
-      "name": "কাজী নজরুল ইসলাম",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kazi_nazrul_islam_with_Setar.jpg/220px-Kazi_nazrul_islam_with_Setar.jpg",
-      "books": [
-        {
-          "title": "বিষের বাশি",
-          "cover": "https://i.postimg.cc/8zgJt7jC/bisher-bashi.jpg",
-          "episodes": [
-            {
-              "book_name": "বিষের বাশি",
-              "audio_url": "https://www.youtube.com/watch?v=LiD0NNSSjgE",
-              "voice_owner": "mirchideep6190",
-              "_id": "67cac2025efc5b10267f755b"
-            }
-          ],
-          "_id": "67cac1eb5efc5b10267f7531"
-        }
-      ],
-      "__v": 2
     }
   ]
