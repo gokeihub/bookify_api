@@ -1,189 +1,163 @@
 [{
-  "_id": {
-    "$oid": "67cabc4e48a0d0af3d4ecefd"
+    "_id": {
+      "$oid": "67cabc4e48a0d0af3d4ecefd"
+    },
+    "name": "রবীন্দ্রনাথ ঠাকুর",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
+    "books": [
+      {
+        "title": "গোরা",
+        "cover": "https://i.postimg.cc/vB37vkP1/gora.jpg",
+        "episodes": [
+          {
+            "book_name": "গোরা প্রথম পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=mCCsUBEkad8",
+            "voice_owner": "realpallab",
+            "_id": {
+              "$oid": "67cabe5da7408e113b1263df"
+            }
+          },
+          {
+            "book_name": "গোরা দ্বিতীয় পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=FEEMg4LmXw4",
+            "voice_owner": "realpallab",
+            "_id": {
+              "$oid": "67cabe79a7408e113b1263ea"
+            }
+          },
+          {
+            "book_name": "গোরা তৃতীয় পর্ব",
+            "audio_url": "https://www.youtube.com/watch?v=dOfdLDP7dwc",
+            "voice_owner": "realpallab",
+            "_id": {
+              "$oid": "67cabe95a7408e113b1263f8"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "67cabc6c48a0d0af3d4ecf02"
+        }
+      },
+      {
+        "title": "কাবুলিওয়ালা",
+        "cover": "https://i.postimg.cc/d00GV4Qw/kabuli-ola.jpg",
+        "episodes": [
+          {
+            "book_name": "কাবুলিওয়ালা",
+            "audio_url": "https://www.youtube.com/watch?v=6DQhVnsQsIs",
+            "voice_owner": "BengaliClassicsByArnab",
+            "_id": {
+              "$oid": "67cabeeea7408e113b12641d"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "67cabea7a7408e113b126409"
+        }
+      },
+      {
+        "title": "ঘরে বাইরে",
+        "cover": "https://i.postimg.cc/gjGzGBdK/ghore-baire.jpg",
+        "episodes": [
+          {
+            "book_name": "ঘরে বাইরে",
+            "audio_url": "https://www.youtube.com/watch?v=HMXCLsCR6js",
+            "voice_owner": "probasimeyergalpoaudio",
+            "_id": {
+              "$oid": "67cabf2da7408e113b126456"
+            }
+          }
+        ],
+        "_id": {
+          "$oid": "67cabf06a7408e113b126434"
+        }
+      }
+    ],
+    "__v": 24
   },
-  "name": "রবীন্দ্রনাথ ঠাকুর",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/453px-Rabindranath_Tagore_unknown_location.jpg",
-  "books": [
-    {
-      "title": "গোরা",
-      "cover": "https://i.postimg.cc/vB37vkP1/gora.jpg",
-      "episodes": [
-        {
-          "book_name": "গোরা প্রথম পর্ব",
-          "audio_url": "https://www.youtube.com/watch?v=mCCsUBEkad8",
-          "voice_owner": "realpallab",
-          "_id": {
-            "$oid": "67cabe5da7408e113b1263df"
-          }
-        },
-        {
-          "book_name": "গোরা দ্বিতীয় পর্ব",
-          "audio_url": "https://www.youtube.com/watch?v=FEEMg4LmXw4",
-          "voice_owner": "realpallab",
-          "_id": {
-            "$oid": "67cabe79a7408e113b1263ea"
-          }
-        },
-        {
-          "book_name": "গোরা তৃতীয় পর্ব",
-          "audio_url": "https://www.youtube.com/watch?v=dOfdLDP7dwc",
-          "voice_owner": "realpallab",
-          "_id": {
-            "$oid": "67cabe95a7408e113b1263f8"
-          }
-        }
-      ],
-      "_id": {
-        "$oid": "67cabc6c48a0d0af3d4ecf02"
-      }
+  {
+    "_id": {
+      "$oid": "67cabfb4a7408e113b126473"
     },
-    {
-      "title": "কাবুলিওয়ালা",
-      "cover": "https://i.postimg.cc/d00GV4Qw/kabuli-ola.jpg",
-      "episodes": [
-        {
-          "book_name": "কাবুলিওয়ালা",
-          "audio_url": "https://www.youtube.com/watch?v=6DQhVnsQsIs",
-          "voice_owner": "BengaliClassicsByArnab",
-          "_id": {
-            "$oid": "67cabeeea7408e113b12641d"
+    "name": "শরৎচন্দ্র চট্টোপাধ্যায়",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg",
+    "books": [
+      {
+        "title": "দেবদাস",
+        "cover": "https://i.postimg.cc/gJxRxfQ9/devdas.jpg",
+        "episodes": [
+          {
+            "book_name": "দেবদাস",
+            "audio_url": "https://www.youtube.com/watch?v=3NloyPTfkGw",
+            "voice_owner": "DadarSchool",
+            "_id": {
+              "$oid": "67cabff4a7408e113b1264a9"
+            }
           }
+        ],
+        "_id": {
+          "$oid": "67cabfd7a7408e113b126491"
         }
-      ],
-      "_id": {
-        "$oid": "67cabea7a7408e113b126409"
-      }
-    },
-    {
-      "title": "ঘরে বাইরে",
-      "cover": "https://i.postimg.cc/gjGzGBdK/ghore-baire.jpg",
-      "episodes": [
-        {
-          "book_name": "ঘরে বাইরে",
-          "audio_url": "https://www.youtube.com/watch?v=HMXCLsCR6js",
-          "voice_owner": "probasimeyergalpoaudio",
-          "_id": {
-            "$oid": "67cabf2da7408e113b126456"
+      },
+      {
+        "title": "পরিণীতা",
+        "cover": "https://i.postimg.cc/Y01xS5Lr/Parineeta.jpg",
+        "episodes": [
+          {
+            "book_name": "পরিণীতা",
+            "audio_url": "https://www.youtube.com/watch?v=oFbpRPHtHO8",
+            "voice_owner": "DadarSchool",
+            "_id": {
+              "$oid": "67cac023a7408e113b1264e2"
+            }
           }
+        ],
+        "_id": {
+          "$oid": "67cac012a7408e113b1264c4"
         }
-      ],
-      "_id": {
-        "$oid": "67cabf06a7408e113b126434"
-      }
-    }
-  ],
-  "__v": 24
-},
-{
-  "_id": {
-    "$oid": "67cabfb4a7408e113b126473"
-  },
-  "name": "শরৎচন্দ্র চট্টোপাধ্যায়",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg",
-  "books": [
-    {
-      "title": "দেবদাস",
-      "cover": "https://i.postimg.cc/gJxRxfQ9/devdas.jpg",
-      "episodes": [
-        {
-          "book_name": "দেবদাস",
-          "audio_url": "https://www.youtube.com/watch?v=3NloyPTfkGw",
-          "voice_owner": "DadarSchool",
-          "_id": {
-            "$oid": "67cabff4a7408e113b1264a9"
+      },
+      {
+        "title": "চরিত্রহীন",
+        "cover": "https://i.postimg.cc/nzfjLC4m/Charitraheen.jpg",
+        "episodes": [
+          {
+            "book_name": "চরিত্রহীন ১",
+            "audio_url": "https://www.youtube.com/watch?v=mQxssApbkqU",
+            "voice_owner": "DazzlingDreamsOfficial",
+            "_id": {
+              "$oid": "67cac05aa7408e113b126527"
+            }
+          },
+          {
+            "book_name": "চরিত্রহীন ২",
+            "audio_url": "https://www.youtube.com/watch?v=IADXSBCxgK4",
+            "voice_owner": "DazzlingDreamsOfficial",
+            "_id": {
+              "$oid": "67cac11b5efc5b10267f7460"
+            }
+          },
+          {
+            "book_name": "চরিত্রহীন ৩",
+            "audio_url": "https://www.youtube.com/watch?v=9wyLlv4nULM",
+            "voice_owner": "DazzlingDreamsOfficial",
+            "_id": {
+              "$oid": "67cac1325efc5b10267f748a"
+            }
+          },
+          {
+            "book_name": "চরিত্রহীন ৪",
+            "audio_url": "https://www.youtube.com/watch?v=-7ViURzCAL4",
+            "voice_owner": "DazzlingDreamsOfficial",
+            "_id": {
+              "$oid": "67cac1835efc5b10267f74d2"
+            }
           }
+        ],
+        "_id": {
+          "$oid": "67cac03ea7408e113b126503"
         }
-      ],
-      "_id": {
-        "$oid": "67cabfd7a7408e113b126491"
       }
-    },
-    {
-      "title": "পরিণীতা",
-      "cover": "https://i.postimg.cc/Y01xS5Lr/Parineeta.jpg",
-      "episodes": [
-        {
-          "book_name": "পরিণীতা",
-          "audio_url": "https://www.youtube.com/watch?v=oFbpRPHtHO8",
-          "voice_owner": "DadarSchool",
-          "_id": {
-            "$oid": "67cac023a7408e113b1264e2"
-          }
-        }
-      ],
-      "_id": {
-        "$oid": "67cac012a7408e113b1264c4"
-      }
-    },
-    {
-      "title": "চরিত্রহীন",
-      "cover": "https://i.postimg.cc/nzfjLC4m/Charitraheen.jpg",
-      "episodes": [
-        {
-          "book_name": "চরিত্রহীন ১",
-          "audio_url": "https://www.youtube.com/watch?v=mQxssApbkqU",
-          "voice_owner": "DazzlingDreamsOfficial",
-          "_id": {
-            "$oid": "67cac05aa7408e113b126527"
-          }
-        },
-        {
-          "book_name": "চরিত্রহীন ২",
-          "audio_url": "https://www.youtube.com/watch?v=IADXSBCxgK4",
-          "voice_owner": "DazzlingDreamsOfficial",
-          "_id": {
-            "$oid": "67cac11b5efc5b10267f7460"
-          }
-        },
-        {
-          "book_name": "চরিত্রহীন ৩",
-          "audio_url": "https://www.youtube.com/watch?v=9wyLlv4nULM",
-          "voice_owner": "DazzlingDreamsOfficial",
-          "_id": {
-            "$oid": "67cac1325efc5b10267f748a"
-          }
-        },
-        {
-          "book_name": "চরিত্রহীন ৪",
-          "audio_url": "https://www.youtube.com/watch?v=-7ViURzCAL4",
-          "voice_owner": "DazzlingDreamsOfficial",
-          "_id": {
-            "$oid": "67cac1835efc5b10267f74d2"
-          }
-        }
-      ],
-      "_id": {
-        "$oid": "67cac03ea7408e113b126503"
-      }
-    }
-  ],
-  "__v": 9
-},
-{
-  "_id": {
-    "$oid": "67cac1ca5efc5b10267f750a"
-  },
-  "name": "কাজী নজরুল ইসলাম",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kazi_nazrul_islam_with_Setar.jpg/220px-Kazi_nazrul_islam_with_Setar.jpg",
-  "books": [
-    {
-      "title": "বিষের বাশি",
-      "cover": "https://i.postimg.cc/8zgJt7jC/bisher-bashi.jpg",
-      "episodes": [
-        {
-          "book_name": "বিষের বাশি",
-          "audio_url": "https://www.youtube.com/watch?v=LiD0NNSSjgE",
-          "voice_owner": "mirchideep6190",
-          "_id": {
-            "$oid": "67cac2025efc5b10267f755b"
-          }
-        }
-      ],
-      "_id": {
-        "$oid": "67cac1eb5efc5b10267f7531"
-      }
-    }
-  ],
-  "__v": 2
-}]
+    ],
+    "__v": 9
+  }]
+  
